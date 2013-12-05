@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>numeral.languages</id>
+        <version>1.5.2</version>
+        <title>Numeral.js Languages</title>
+        <authors>Adam Draper</authors>
+        <owners>sirkirby</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>http://numeraljs.com/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A javascript library for formatting and manipulating numbers. Package issues? Pleae post them here https://github.com/sirkirby/numeral-js-nuget/issues</description>
+        <releaseNotes>initial release from v1.5.2 source</releaseNotes>
+        <tags>numeral number formatting format currency percentage javascript language localization</tags>
+    </metadata>
+    <files>
+        <file src="languages\be-nl.js" target="content\Scripts\numeral\languages\be-nl.js" />
+        <file src="languages\be-nl.min.js" target="content\Scripts\numeral\languages\be-nl.min.js" />
+        <file src="languages\cs.js" target="content\Scripts\numeral\languages\cs.js" />
+        <file src="languages\cs.min.js" target="content\Scripts\numeral\languages\cs.min.js" />
+        <file src="languages\da-dk.js" target="content\Scripts\numeral\languages\da-dk.js" />
+        <file src="languages\da-dk.min.js" target="content\Scripts\numeral\languages\da-dk.min.js" />
+        <file src="languages\de-ch.js" target="content\Scripts\numeral\languages\de-ch.js" />
+        <file src="languages\de-ch.min.js" target="content\Scripts\numeral\languages\de-ch.min.js" />
+        <file src="languages\de.js" target="content\Scripts\numeral\languages\de.js" />
+        <file src="languages\de.min.js" target="content\Scripts\numeral\languages\de.min.js" />
+        <file src="languages\en-gb.js" target="content\Scripts\numeral\languages\en-gb.js" />
+        <file src="languages\en-gb.min.js" target="content\Scripts\numeral\languages\en-gb.min.js" />
+        <file src="languages\es-ES.js" target="content\Scripts\numeral\languages\es-ES.js" />
+        <file src="languages\es-ES.min.js" target="content\Scripts\numeral\languages\es-ES.min.js" />
+        <file src="languages\es.js" target="content\Scripts\numeral\languages\es.js" />
+        <file src="languages\es.min.js" target="content\Scripts\numeral\languages\es.min.js" />
+        <file src="languages\fi.js" target="content\Scripts\numeral\languages\fi.js" />
+        <file src="languages\fi.min.js" target="content\Scripts\numeral\languages\fi.min.js" />
+        <file src="languages\fr-CA.js" target="content\Scripts\numeral\languages\fr-CA.js" />
+        <file src="languages\fr-CA.min.js" target="content\Scripts\numeral\languages\fr-CA.min.js" />
+        <file src="languages\fr-ch.js" target="content\Scripts\numeral\languages\fr-ch.js" />
+        <file src="languages\fr-ch.min.js" target="content\Scripts\numeral\languages\fr-ch.min.js" />
+        <file src="languages\fr.js" target="content\Scripts\numeral\languages\fr.js" />
+        <file src="languages\fr.min.js" target="content\Scripts\numeral\languages\fr.min.js" />
+        <file src="languages\hu.js" target="content\Scripts\numeral\languages\hu.js" />
+        <file src="languages\hu.min.js" target="content\Scripts\numeral\languages\hu.min.js" />
+        <file src="languages\it.js" target="content\Scripts\numeral\languages\it.js" />
+        <file src="languages\it.min.js" target="content\Scripts\numeral\languages\it.min.js" />
+        <file src="languages\ja.js" target="content\Scripts\numeral\languages\ja.js" />
+        <file src="languages\ja.min.js" target="content\Scripts\numeral\languages\ja.min.js" />
+        <file src="languages\nl-nl.js" target="content\Scripts\numeral\languages\nl-nl.js" />
+        <file src="languages\nl-nl.min.js" target="content\Scripts\numeral\languages\nl-nl.min.js" />
+        <file src="languages\pl.js" target="content\Scripts\numeral\languages\pl.js" />
+        <file src="languages\pl.min.js" target="content\Scripts\numeral\languages\pl.min.js" />
+        <file src="languages\pt-br.js" target="content\Scripts\numeral\languages\pt-br.js" />
+        <file src="languages\pt-br.min.js" target="content\Scripts\numeral\languages\pt-br.min.js" />
+        <file src="languages\pt-pt.js" target="content\Scripts\numeral\languages\pt-pt.js" />
+        <file src="languages\pt-pt.min.js" target="content\Scripts\numeral\languages\pt-pt.min.js" />
+        <file src="languages\ru-UA.js" target="content\Scripts\numeral\languages\ru-UA.js" />
+        <file src="languages\ru-UA.min.js" target="content\Scripts\numeral\languages\ru-UA.min.js" />
+        <file src="languages\ru.js" target="content\Scripts\numeral\languages\ru.js" />
+        <file src="languages\ru.min.js" target="content\Scripts\numeral\languages\ru.min.js" />
+        <file src="languages\sk.js" target="content\Scripts\numeral\languages\sk.js" />
+        <file src="languages\sk.min.js" target="content\Scripts\numeral\languages\sk.min.js" />
+        <file src="languages\th.js" target="content\Scripts\numeral\languages\th.js" />
+        <file src="languages\th.min.js" target="content\Scripts\numeral\languages\th.min.js" />
+        <file src="languages\tr.js" target="content\Scripts\numeral\languages\tr.js" />
+        <file src="languages\tr.min.js" target="content\Scripts\numeral\languages\tr.min.js" />
+        <file src="languages\uk-UA.js" target="content\Scripts\numeral\languages\uk-UA.js" />
+        <file src="languages\uk-UA.min.js" target="content\Scripts\numeral\languages\uk-UA.min.js" />
+        <file src="languages.js" target="content\Scripts\numeral\languages.js" />
+        <file src="languages.min.js" target="content\Scripts\numeral\languages.min.js" />
+    </files>
+</package>
