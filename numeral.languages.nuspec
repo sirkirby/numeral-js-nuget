@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>numeral.languages</id>
-        <version>1.5.2</version>
+        <version>1.5.3</version>
         <title>Numeral.js Languages</title>
         <authors>Adam Draper</authors>
         <owners>sirkirby</owners>
@@ -10,12 +10,14 @@
         <projectUrl>http://numeraljs.com/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>A javascript library for formatting and manipulating numbers. Package issues? Pleae post them here https://github.com/sirkirby/numeral-js-nuget/issues</description>
-        <releaseNotes>initial release from v1.5.2 source</releaseNotes>
+        <releaseNotes>initial release from v1.5.3 source</releaseNotes>
         <tags>numeral number formatting format currency percentage javascript language localization</tags>
     </metadata>
     <files>
         <file src="languages\be-nl.js" target="content\Scripts\numeral\languages\be-nl.js" />
         <file src="languages\be-nl.min.js" target="content\Scripts\numeral\languages\be-nl.min.js" />
+        <file src="languages\chs.js" target="content\Scripts\numeral\languages\chs.js" />
+        <file src="languages\chs.min.js" target="content\Scripts\numeral\languages\chs.min.js" />
         <file src="languages\cs.js" target="content\Scripts\numeral\languages\cs.js" />
         <file src="languages\cs.min.js" target="content\Scripts\numeral\languages\cs.min.js" />
         <file src="languages\da-dk.js" target="content\Scripts\numeral\languages\da-dk.js" />
@@ -30,6 +32,8 @@
         <file src="languages\es-ES.min.js" target="content\Scripts\numeral\languages\es-ES.min.js" />
         <file src="languages\es.js" target="content\Scripts\numeral\languages\es.js" />
         <file src="languages\es.min.js" target="content\Scripts\numeral\languages\es.min.js" />
+        <file src="languages\et.js" target="content\Scripts\numeral\languages\et.js" />
+        <file src="languages\et.min.js" target="content\Scripts\numeral\languages\et.min.js" />
         <file src="languages\fi.js" target="content\Scripts\numeral\languages\fi.js" />
         <file src="languages\fi.min.js" target="content\Scripts\numeral\languages\fi.min.js" />
         <file src="languages\fr-CA.js" target="content\Scripts\numeral\languages\fr-CA.js" />
