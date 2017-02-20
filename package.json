@@ -1,6 +1,6 @@
 {
   "name": "numeral-js-nuget",
-  "version": "1.5.3",
+  "version": "2.0.4",
   "description": "Public nuget package for numeral javascript library.",
   "author": "Chris Kirby",
   "homepage": "https://github.com/sirkirby/numeral-js-nuget",
